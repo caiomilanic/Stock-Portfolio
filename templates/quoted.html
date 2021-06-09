@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+<div>
+    <h2>
+        Stock price of {{ quote["name"] }} ({{quote["symbol"]}}) is
+    </h2>
+</div>
+<div>
+    <h1 style="color: green">
+        <strong>
+            USD$ {{ quote["price"] }}
+        </strong>
+    </h1>
+</div>
+
+{% endblock %}
