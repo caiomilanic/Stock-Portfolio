@@ -1,6 +1,7 @@
 # Finance 
 
 ### Web app designed to manage stock portfolios.
+This project is part of Harvard's CS50x course. 
 
 ## Overview
 
@@ -10,6 +11,6 @@ Application built using python's web framework flask (https://flask.palletsproje
 
 ### Author
 
-Caio Milani
+*caiomilanic*
 
 find me @ https://https://github.com/caiomilanic
